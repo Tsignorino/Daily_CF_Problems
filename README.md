@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF351A](https://codeforces.com/problemset/problem/351/A) | You only need to consider the numbers after the `'.'`. How many $1000$ -s will they become? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0723/solution/cf351a.md) |
-| 1900 | [CF792D](https://codeforces.com/problemset/problem/792/D) | Find the relation between the numbers of a node, its parent and its children. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0723/solution/cf792d.md) |
+| 1700 | [CF1041D](https://codeforces.com/problemset/problem/1041/D) | The "area" is "good" for you, so at least make full use of the leftmost chosen one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0731/solution/cf1041d.md) |
+| 2000 | [CF916B](https://codeforces.com/problemset/problem/916/B) | First of all, find the shortest sequence. Prove it is the lexicographically largest one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0731/solution/cf916b.md) |
